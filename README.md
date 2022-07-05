@@ -1,7 +1,7 @@
 # Binary Tree Traversal visualizer
 
 This project is a binary tree traversal visualizer.
-Check out [Live demo](https://jovial-snyder-8b8319.netlify.com/).
+Check out [Live demo](https://bloggit171.herokuapp.com).
 
 Supported Traversals:
 ```
